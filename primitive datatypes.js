@@ -20,3 +20,11 @@ console.log( firstName);
 //null
 let lastName = null;
 console.log( lastName);
+
+//bigint
+let Num = (123422222222222222222222222222222222222n);
+console.log(typeof Num);
+
+//symbol
+let value = Symbol('hello');
+console.log(typeof value);
