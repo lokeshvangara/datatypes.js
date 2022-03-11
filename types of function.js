@@ -30,7 +30,7 @@
 //     console.log(ok()); // Throws "ReferenceError: ok is not defined"
 //   })();
 
-// 4. Arrow function
+// Arrow function
 // An arrow function is defined using a pair of parenthesis that contains the list of parameters
 //  (param1, param2, ..., paramN), followed by a fat arrow => and a pair of curly braces {...}
 //   that delimits the body statements.
